@@ -14,7 +14,7 @@ My primary academic interest is zero-shot learning, out of distribution classifi
 
 # News
 - 2023/07/26: one paper about video based human mesh reconstruction is accepted to ACM International Conference on Multimedia 2023 (ACM MM).
-- 2022/08/16: one paper about portrait gaze correction and animation is accepted to IEEE Transactions on Image Processing.
+- 2022/08/16: one paper about portrait gaze correction and animation is accepted to IEEE Transactions on Image Processing (TIP).
 
 # Publications
 1. **Peng Wu**, Xiankai Lu, Jianbing Shen, Yilong Yin, "Clip Fusion with Bi-level Optimization for Human Mesh Reconstruction from Monocular Videos". ACM International Conference on Multimedia(ACM MM), 2023.
