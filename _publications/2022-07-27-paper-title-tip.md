@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised High-Resolution Portrait Gaze Correction and Animation"
 collection: publications
-permalink: /publication/2022-07-27-paper-tip
+permalink: /publication/2022-07-27-paper-title-tip
 excerpt: ''
 date: 2022-07-27
 venue: 'IEEE Transactions on Image Processing'
