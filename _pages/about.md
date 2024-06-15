@@ -17,5 +17,5 @@ My primary academic interest is zero-shot learning, out of distribution classifi
 - 2022/07/27: one paper about portrait gaze correction and animation is accepted to IEEE Transactions on Image Processing (TIP).
 
 # Publications
-1. **Peng Wu**, Xiankai Lu, Jianbing Shen, Yilong Yin, "Clip Fusion with Bi-level Optimization for Human Mesh Reconstruction from Monocular Videos". ACM International Conference on Multimedia(ACM MM), 2023.
+1. **Peng Wu**, Xiankai Lu, Jianbing Shen, Yilong Yin, "Clip Fusion with Bi-level Optimization for Human Mesh Reconstruction from Monocular Videos". ACM International Conference on Multimedia(ACM MM), 2023 (*Oral*).
 2. Jichao Zhang; Jingjing Chen; Hao Tang; Enver Sangineto; **Peng Wu**; Yan Yan; Nicu Sebe; Wei Wang, "Unsupervised High-Resolution Portrait Gaze Correction and Animation". IEEE Transactions on Image Processing(TIP), 2022.
