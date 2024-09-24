@@ -24,11 +24,13 @@ I am currently a master at Shandong University.
 2018-2022, I got my Bachelor's degree in Shandong University.
 
 **RESEARCH STATEMENT**
+
 1. **Human Mesh Reconstruction/Recovery (HMR):** Reconstruct 3D Joint and Mesh of Human Body from Image or Videos.
 2. **Compositional Zero-Shot Learning (CZSL):** Reason Novel *attribute-object* Compositions Based on Learned attribute and object representations.
 3. **Embodied AI:** Visual Navigation, Human-Machine Dialog, Command Generation for Navigation Robotics
 
 **RESEARCH ATTITUDE**
+
 Explore something new at the border of human knowledge, be far away from repetitive and meaningless work.
 
 Email address: mvppengwu@gmail.com
