@@ -17,24 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master at Shandong University. 
+I am currently a master's student at Shandong University.
 
-2022-2025, I am master student advised by [Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm).
+2022-2025, I am a master's student at Shandong University advised by [Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm).
 
-2018-2022, I got my Bachelor's degree in Shandong University.
+2018-2022, I obtained my Bachelor's degree from Shandong University.
 
 **RESEARCH STATEMENT**
 
-1. **Human Mesh Reconstruction/Recovery (HMR):** Reconstruct 3D Joint and Mesh of Human Body from Image or Videos.
-2. **Compositional Zero-Shot Learning (CZSL):** Reason Novel *attribute-object* Compositions Based on Learned attribute and object representations.
-3. **Embodied AI:** Visual Navigation, Human-Machine Dialog, Command Generation for Navigation Robotics
-
-**RESEARCH ATTITUDE**
-
-Explore something new at the border of human knowledge, be far away from repetitive and meaningless work.
+1. **Human Mesh Reconstruction/Recovery (HMR):** Reconstruct 3D joint and mesh of human body from image or videos.
+2. **Compositional Zero-Shot Learning (CZSL):** Reason novel *attribute-object* compositions based on learned attribute and object representations.
 
 Email address: mvppengwu@gmail.com
-
 
 
 # 🔥 News
@@ -58,16 +52,9 @@ Email address: mvppengwu@gmail.com
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
