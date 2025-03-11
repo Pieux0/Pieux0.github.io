@@ -32,18 +32,18 @@ Email address: mvppengwu@gmail.com
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 . 
-- *2022.02*: &nbsp;🎉🎉 .
-- *2022.02*: &nbsp;🎉🎉 . 
+- *2025.02*: &nbsp;🎉🎉 . One paper about compositional zero-shot learning is accepted to CVPR 2025.
+- *2024.07*: &nbsp;🎉🎉 . One paper about video instance segmentation is accepted to ECCV 2024.
+- *2023.07*: &nbsp;🎉🎉 . One paper about human mesh recovery is accepted to ACM MM 2023.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/BiCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Clip Fusion with Bi-level Optimization for Human Mesh Reconstruction from Monocular Videos [pdf]() [code]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Peng Wu**, Xiankai Lu, Jianbing Shen, Yilong Yin
 
 
 # 🎖 Honors and Awards
