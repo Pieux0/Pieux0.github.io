@@ -38,18 +38,26 @@ Email address: mvppengwu@gmail.com
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/LogiCZSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+LOGICZSL: Exploring Logic-induced Representation for Compositional Zero-shot Learning [[pdf]()] [[code]()]
+
+**Peng Wu**, Xiankai Lu, Hu Hao, Yongqin Xian, Jianbing Shen, Wenguan Wang
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/OVFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Unified Embedding Alignment for Open-Vocabulary Video Instance Segmentation [[pdf](https://arxiv.org/pdf/2407.07427)] [[code](https://github.com/fanghaook/OVFormer)]
+
+Hao Fang, **Peng Wu**, Yawei Li, Xinxin Zhang, Xiankai Lu
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/BiCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Clip Fusion with Bi-level Optimization for Human Mesh Reconstruction from Monocular Videos [pdf]() [code]()
+Clip Fusion with Bi-level Optimization for Human Mesh Reconstruction from Monocular Videos [[pdf](https://dl.acm.org/doi/10.1145/3581783.3611978)] [[code](https://github.com/bicf0/BiCF)]
 
-**Peng Wu**, Xiankai Lu, Jianbing Shen, Yilong Yin
+**Peng Wu**, Xiankai Lu, Jianbing Shen, Yilong Yin (**Oral**)
 
 
-# 🎖 Honors and Awards
-
-# 📖 Educations 
-
-# 💬 Invited Talks
-
-# 💻 Internships
