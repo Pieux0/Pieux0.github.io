@@ -45,6 +45,8 @@ LOGICZSL: Exploring Logic-induced Representation for Compositional Zero-shot Lea
 
 **Peng Wu**, Xiankai Lu, Hu Hao, Yongqin Xian, Jianbing Shen, Wenguan Wang
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/OVFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,6 +55,9 @@ Unified Embedding Alignment for Open-Vocabulary Video Instance Segmentation [[pd
 
 Hao Fang, **Peng Wu**, Yawei Li, Xinxin Zhang, Xiankai Lu
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/BiCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,4 +65,5 @@ Clip Fusion with Bi-level Optimization for Human Mesh Reconstruction from Monocu
 
 **Peng Wu**, Xiankai Lu, Jianbing Shen, Yilong Yin (**Oral**)
 
-
+</div>
+</div>
