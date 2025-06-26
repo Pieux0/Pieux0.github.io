@@ -17,26 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master's student at Shandong University.
-
-2022-2025, I am a master's student at Shandong University advised by [Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm).
-
-2018-2022, I obtained my Bachelor's degree from Shandong University.
+Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof.[Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am working under the guidance of Prof.[Wenguan Wang](https://scholar.google.com/citations?user=CqAQQkgAAAAJ&hl=zh-CN) from Zhejiang University. I completed my master’s and bachelor's degree from Shandong University, supervised by Prof.[Xiankai Lu](https://scholar.google.com/citations?user=QS5V5b8AAAAJ&hl=zh-CN). 
 
 **RESEARCH STATEMENT**
 
-1. **Human Mesh Reconstruction/Recovery (HMR):** Reconstruct 3D joint and mesh of human body from image or videos.
-2. **Compositional Zero-Shot Learning (CZSL):** Reason novel *attribute-object* compositions based on learned attribute and object representations.
-
-Email address: mvppengwu@gmail.com
+My current research primarily focuses on the theoretical analysis and applications of multi-modal large language models and diffusion models. Previously, I conducted research in the areas of human mesh reconstruction and compositional zero-shot learning.
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 . One paper about compositional zero-shot learning is accepted to ICCV 2025.
 - *2025.02*: &nbsp;🎉🎉 . One paper about compositional zero-shot learning is accepted to CVPR 2025.
 - *2024.07*: &nbsp;🎉🎉 . One paper about video instance segmentation is accepted to ECCV 2024.
 - *2023.07*: &nbsp;🎉🎉 . One paper about human mesh recovery is accepted to ACM MM 2023.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/LogiCZSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Conditional Probability Framework for Compositional Zero-shot Learning [[pdf]()] [[code]()]
+
+**Peng Wu**, Qiuxia Lai, Hao Fang, Guo-Sen Xie, Yilong Yin, Xiankai Lu, Wenguan Wang
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/LogiCZSL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
