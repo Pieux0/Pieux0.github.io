@@ -62,7 +62,7 @@ Hao Fang, **Peng Wu**, Yawei Li, Xinxin Zhang, Xiankai Lu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/BiCF2.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/BICF2.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Clip Fusion with Bi-level Optimization for Human Mesh Reconstruction from Monocular Videos [[pdf](https://dl.acm.org/doi/10.1145/3581783.3611978)] [[code](https://github.com/bicf0/BiCF)]
