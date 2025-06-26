@@ -32,7 +32,7 @@ My current research primarily focuses on the theoretical analysis and applicatio
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/LogiCZSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/LogiCZSL.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Conditional Probability Framework for Compositional Zero-shot Learning [[pdf]()] [[code]()]
@@ -71,3 +71,9 @@ Clip Fusion with Bi-level Optimization for Human Mesh Reconstruction from Monocu
 
 </div>
 </div>
+
+# 🎆 Service
+**Reviewer**
+
+ACL ARR 2025 
+
